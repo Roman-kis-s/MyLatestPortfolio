@@ -1,0 +1,59 @@
+body{
+    color: darkslategrey;
+}
+.navbar-default{
+    background-color: #2c3e50;
+    margin-bottom: 0;
+    color:whitesmoke;
+}
+header{
+    background-color: #18bc9c;
+    color:whitesmoke;
+}
+.name{
+    font-weight: 700;
+    font-size: 50px;
+    text-transform: uppercase;
+    color: whitesmoke;
+}
+#mainPhoto{
+    margin-top: 85px;
+}
+hr.style-hr {
+    padding: 0;
+    border: none;
+    border-top: solid thick;
+    color: whitesmoke;
+    text-align: center;
+}
+#portfolio{
+    background-color: whitesmoke;
+}
+#portfolio.well{
+    background-color: darkslategrey;
+}
+#contact-Me{
+    background-color: #18bc9c;
+    color: whitesmoke;
+}
+footer{
+    background-color: darkslategrey;
+    padding-top: 50px;
+    color: whitesmoke;
+}
+#submit{
+    margin-bottom: 15px;
+}
+#social-icons{
+    margin-top: 8px;
+}
+#copyright{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#porfolio-header{
+    margin-top: 65px;
+}
+#contact{
+    margin-top: 68px;
+}
